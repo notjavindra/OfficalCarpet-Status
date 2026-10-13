@@ -57,3 +57,7 @@ FallingBlock = true
 FlyBlock = true
 DamageTaken = true
 Elytra = true
+SeeEchest = true
+Exit = true
+Chest = true
+
